@@ -1,0 +1,71 @@
+﻿  Engine.cpp
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(25,4): error C2614: 'AsEngine': illegal member initialization: 'Ball_X_Pos' is not a base or member
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(25,20): error C2614: 'AsEngine': illegal member initialization: 'Ball_Y_Pos' is not a base or member
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(25,37): error C2614: 'AsEngine': illegal member initialization: 'Ball_Speed' is not a base or member
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(25,54): error C2614: 'AsEngine': illegal member initialization: 'Ball_Direction' is not a base or member
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(74,7): error C3861: 'Draw_Ball': identifier not found
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(109,4): error C3861: 'Move_Ball': identifier not found
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(299,22): error C2065: 'BG_Pen': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(300,22): error C2065: 'BG_Brush': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(302,17): error C2065: 'Prev_Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(302,39): error C2065: 'Prev_Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(302,59): error C2065: 'Prev_Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(302,85): error C2065: 'Prev_Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(302,110): error C2660: 'Ellipse': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(3956,24): message : see declaration of 'Ellipse'
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(313,22): error C2065: 'Ball_Pen': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(314,22): error C2065: 'Ball_Brush': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(316,17): error C2065: 'Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(316,33): error C2065: 'Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(316,49): error C2065: 'Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(316,70): error C2065: 'Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(316,90): error C2660: 'Ellipse': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(3956,24): message : see declaration of 'Ellipse'
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(317,22): error C2065: 'BG_Pen': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(318,22): error C2065: 'BG_Brush': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(398,13): error C2065: 'Ball_Direction': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(398,31): error C2065: 'Ball_Direction': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(406,20): error C2065: 'Max_X_Pos': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(406,32): error C2065: 'Ball_Size': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(408,25): error C2065: 'Platform_Y_Pos': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(408,42): error C2065: 'Ball_Size': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(409,4): error C2065: 'Prev_Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(409,26): error C2065: 'Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(410,4): error C2065: 'Prev_Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(410,25): error C2065: 'Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(411,4): error C2065: 'Prev_Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(411,27): error C2065: 'Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(412,4): error C2065: 'Prev_Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(412,28): error C2065: 'Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(418,21): error C2065: 'Border_X_Offset': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(419,20): error C2065: 'Level_X_Offset': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(419,51): error C2065: 'Level_X_Offset': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(423,21): error C2065: 'Border_Y_Offset': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(424,20): error C2065: 'Border_Y_Offset': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(424,52): error C2065: 'Border_Y_Offset': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(432,21): error C2065: 'Max_Y_Pos': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(433,20): error C2065: 'Max_Y_Pos': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(433,46): error C2065: 'Max_Y_Pos': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(438,25): error C2065: 'Platform_X_Pos': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(438,58): error C2065: 'Platform_X_Pos': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(438,75): error C2065: 'Platform_Width': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(445,4): error C3861: 'Check_Level_Brick_Hit': identifier not found
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(451,4): error C2065: 'Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(451,35): error C2065: 'Global_Scale': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(452,4): error C2065: 'Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(452,35): error C2065: 'Global_Scale': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(453,4): error C2065: 'Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(453,22): error C2065: 'Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(453,40): error C2065: 'Ball_Size': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(453,52): error C2065: 'Global_Scale': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(454,4): error C2065: 'Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(454,23): error C2065: 'Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(454,40): error C2065: 'Ball_Size': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(454,53): error C2065: 'Global_Scale': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(455,19): error C2065: 'Hwnd': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(455,26): error C2065: 'Prev_Ball_Rect': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(457,19): error C2065: 'Hwnd': undeclared identifier
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Engine.cpp(457,26): error C2065: 'Ball_Rect': undeclared identifier
+  Main.cpp
+C:\Work\Popcorn_Project\Popcorn\Popcorn\Main.cpp(195,31): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating Code...
